@@ -8,3 +8,5 @@
 3. Now we can use this internet address to connect
    * Install VPN Client on PC-2
    * Someone get your user and password
+
+<p> <img src="https://github.com/MatveyGuralskiy/Networking/blob/main/VPN/Screenshot.png?raw=true" </p>
