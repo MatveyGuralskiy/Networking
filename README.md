@@ -34,6 +34,7 @@ Load Balancing and High Availability: Discover techniques for load balancing acr
 
 *This repository serves as a valuable resource for DevOps engineers looking to deepen their understanding of networking fundamentals and enhance their skills in managing complex infrastructure environments.*
 
+<p><img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Types_of_Networks_1.png style="height:275px; width:446px" /></p>
 
 ## 📢 Additional Information
 
