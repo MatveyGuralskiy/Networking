@@ -35,7 +35,7 @@ In Host ID numbers: 0 and 255 doesn't use (doesn't exist for user usage) because
 
   Host ID will be different for every device
 <br>
-Address of your computer (**local or localhost**):    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;127.0.0.1
+Address of your computer (local or localhost):    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;127.0.0.1
 
 It can also will show you if protocols TCP/IP work
 
