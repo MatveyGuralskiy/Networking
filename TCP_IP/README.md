@@ -11,20 +11,30 @@
 **IP Address**= unique confidential number for device
 
 
-<br> We have two types of **IP Addresses**:
+<br> We have two types of **IP Addresses**: IPv4 have 4 blocks and IPv6 have 8 blocks
 
-IPv4 : 
-          *192.168.100* .10  
-          *Subnet ID:* Numbers between 0-255
-          Host ID:Numbers between 1-254
+IPv4 : <br>
+ &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Example: *192.168.100* .10  
+ &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;*Subnet ID:* 192.168.100 &nbsp; &nbsp; &nbsp;Numbers between 0-255
+          <br>
+ &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Host ID: .10 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp;Numbers between 1-254
+<br>
+IPv6: <br>
+ &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Example: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *FE80:0000:0000:B9A2:9200:92CC:8C12:A634*  
+ &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Or the same version of this IP Address: &nbsp; &nbsp; *FE80::B9A2:9200:92CC:8C12:A634*
+          <br>
+
 <br>
 Subnet Mask: 255.255.255.0    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   Numbers between: 0-255(0-254)
 <br>
 <br>
+
  **Subnet ID** is like a number or address that tells you where in the network a computer or device is located.
 <br>
+
  **Subnet mask** is like a set of instructions that tells a computer how to divide an IP address into two parts: one part identifies the subnet and the other part identifies the specific device in that subnet.
 <br>
+
  **Host ID** is like a number or address that tells you which specific device or computer within the subnet is using that IP address.
 In Host ID numbers: 0 and 255 doesn't use (doesn't exist for user usage) because number 0 is the base IP of IP Address. 
 <br> Number 255 is a broadcast ID  
@@ -35,7 +45,9 @@ In Host ID numbers: 0 and 255 doesn't use (doesn't exist for user usage) because
 
   Host ID will be different for every device
 <br>
-Address of your computer (local or localhost):    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;127.0.0.1
+
+**Address of your computer** (local or localhost):    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;IPv4 = 127.0.0.1   <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;IPv6 = ::1
 
 It can also will show you if protocols TCP/IP work
 
