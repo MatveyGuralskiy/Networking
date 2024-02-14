@@ -18,7 +18,7 @@ This is fundamental knowledge of networks for those who want to become a devops 
 This repository will help in understanding a good base in this area.
 
 
-<p><img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Types_of_Networks_1.png style="height:275px; width:446px" /></p>
+<p><img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Types_of_Networks_1.png" style="height:275px; width:446px" /></p>
 
 ## 💡 Key Concepts Covered:
 
